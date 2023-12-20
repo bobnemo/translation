@@ -151,6 +151,9 @@
           "MAC": "在 Rem 中间按下回车键时，默认会自动换行，而使用 Opt + 回车键则会将文本拆分成两个独立的 Rem。（Shift + 回车键默认实现行内软换行）"
         }
       },
+      "ENTER_TO_OUTDENT": {
+        "TITLE": "按 回车键 取消缩进"
+      },
       "DOUBLE_SLASH_FOR_COMMAND_MENU": {
         "TITLE": "双斜线触发命令菜单",
         "DESCRIPTION": "编辑 Rem 时使用 // 而非 / 触发命令模式"
@@ -267,6 +270,9 @@
         "TITLE": "顶级文档 使用技巧",
         "LABEL": "在文档顶部显示可以试用的 RemNote 功能提示",
         "KEYWORDS": "提示 帮助 支持 学习 教程"
+      },
+      "ONBOARDING_TIPS_FEATURES": {
+        "KEYWORDS": "工具提示帮助学习教程"
       },
       "COMMUNITY_DOCUMENT_SEARCH_LANGUAGE": {
         "TITLE": "社区文档搜索语言",
