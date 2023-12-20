@@ -593,6 +593,21 @@
       }
     }
   },
+  "ONBOARDING": {
+    "SIDEBAR": {
+      "INITIAL": {
+        "0": {
+          "TITLE": "创建文件夹"
+        },
+        "1": {
+          "TITLE": "添加项目符号"
+        },
+        "2": {
+          "TITLE": "创建记忆卡片"
+        }
+      }
+    }
+  },
   "COMMUNITY_NOTIFICATIONS": {
     "INVITE": {
       "BODY": "已邀请您加入",
